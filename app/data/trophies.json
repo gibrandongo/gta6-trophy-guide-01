@@ -1,392 +1,67 @@
 {
- "game": "Grand Theft Auto VI",
- "platform": "PlayStation 5",
- "list": "the official 55 trophies, 2026-11-18",
- "trophies": [
-  {
-   "id": 1,
-   "name": "Vice Got a Price!",
-   "description": "Congratulations! You're a Leonida Legend.",
-   "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
-  },
-  {
-   "id": 2,
-   "name": "Just Like Paradise",
-   "description": "Complete Gone Fishing.",
-   "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
-  },
-  {
-   "id": 3,
-   "name": "Paradise Lost",
-   "description": "Complete Chapter 1.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 1."
-  },
-  {
-   "id": 4,
-   "name": "T**s Ass Drug Money",
-   "description": "Complete Chapter 2.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 2."
-  },
-  {
-   "id": 5,
-   "name": "Vice City, Baby!",
-   "description": "Complete Chapter 3.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 3."
-  },
-  {
-   "id": 6,
-   "name": "Top Of The World, Ma",
-   "description": "Complete Chapter 4.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 4."
-  },
-  {
-   "id": 7,
-   "name": "You Gotta Know When to Get Off",
-   "description": "Complete the final mission.",
-   "grade": "gold",
-   "guide": "Finish the final mission (gold)."
-  },
-  {
-   "id": 8,
-   "name": "Trust",
-   "description": "Complete Breakfast Run.",
-   "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
-  },
-  {
-   "id": 9,
-   "name": "Break the Bank",
-   "description": "Complete The Cartel Heist.",
-   "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
-  },
-  {
-   "id": 10,
-   "name": "Family Matters",
-   "description": "Complete Child's Play.",
-   "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
-  },
-  {
-   "id": 11,
-   "name": "DWNFALL",
-   "description": "Complete Headliners.",
-   "grade": "bronze",
-   "guide": "Finish the mission Headliners."
-  },
-  {
-   "id": 12,
-   "name": "Hi-Jacked",
-   "description": "Complete VCIA Takedown.",
-   "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
-  },
-  {
-   "id": 13,
-   "name": "Snow Storm",
-   "description": "Complete Operation Savage Glory.",
-   "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
-  },
-  {
-   "id": 14,
-   "name": "A Long Road",
-   "description": "Attain 100% Completion.",
-   "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
-  {
-   "id": 15,
-   "name": "Cunning Stunts",
-   "description": "Complete 250 Stunts.",
-   "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
-  },
-  {
-   "id": 16,
-   "name": "Master of None",
-   "description": "Try each type of activity once.",
-   "grade": "bronze",
-   "guide": "Try all 9 activity types once."
-  },
-  {
-   "id": 17,
-   "name": "The Shootist",
-   "description": "Earn a gold medal in all Shooting Range challenges.",
-   "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
-  },
-  {
-   "id": 18,
-   "name": "Top Fun",
-   "description": "Win a Top Fun Drone Race at every location.",
-   "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
-  },
-  {
-   "id": 19,
-   "name": "Earn Cash, Not Kudos",
-   "description": "Win 20 different races.",
-   "grade": "bronze",
-   "guide": "Win 20 different races."
-  },
-  {
-   "id": 20,
-   "name": "Baited My Tackle",
-   "description": "Beat Cal in a fishing challenge.",
-   "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
-  },
-  {
-   "id": 21,
-   "name": "Stick Fiddler",
-   "description": "Complete an arcade game.",
-   "grade": "bronze",
-   "guide": "Finish one arcade game."
-  },
-  {
-   "id": 22,
-   "name": "Road to Rehabilitation",
-   "description": "Complete the final mission for Andy.",
-   "grade": "bronze",
-   "guide": "Finish Andy's last mission."
-  },
-  {
-   "id": 23,
-   "name": "This Was No Boat Accident",
-   "description": "Complete the final mission for Kenton.",
-   "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
-  },
-  {
-   "id": 24,
-   "name": "The Lone Rider",
-   "description": "Complete the final mission for Billy.",
-   "grade": "bronze",
-   "guide": "Finish Billy's last mission."
-  },
-  {
-   "id": 25,
-   "name": "Strangers & Freaks",
-   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
-   "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
-  },
-  {
-   "id": 26,
-   "name": "Supply & Demand",
-   "description": "Complete the final mission for Randy.",
-   "grade": "bronze",
-   "guide": "Finish Randy's last mission."
-  },
-  {
-   "id": 27,
-   "name": "Spin On This!",
-   "description": "Complete the final mission for Tyrone.",
-   "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
-  },
-  {
-   "id": 28,
-   "name": "Positive Mental Attitude",
-   "description": "Meditate at every spot across Leonida.",
-   "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
-  },
-  {
-   "id": 29,
-   "name": "Fair Game",
-   "description": "Hunt a unique animal for Bret.",
-   "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
-  },
-  {
-   "id": 30,
-   "name": "Don't Touch My Deck",
-   "description": "Complete 3 Collectible Card sets.",
-   "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
-  {
-   "id": 31,
-   "name": "You WAiNKer!",
-   "description": "WAiNK It at 100 locations.",
-   "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
-  },
-  {
-   "id": 32,
-   "name": "One Last Thing",
-   "description": "Complete 50 Challenges.",
-   "grade": "bronze",
-   "guide": "Finish 50 challenges."
-  },
-  {
-   "id": 33,
-   "name": "Hot Together",
-   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
-   "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
-  },
-  {
-   "id": 34,
-   "name": "Retail Therapy",
-   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
-   "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
-  },
-  {
-   "id": 35,
-   "name": "Whip It Good",
-   "description": "Discover 100 vehicles.",
-   "grade": "bronze",
-   "guide": "Discover 100 vehicles."
-  },
-  {
-   "id": 36,
-   "name": "Gunslinger",
-   "description": "Take down 5 enemies in a single use of Combat Focus.",
-   "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
-  },
-  {
-   "id": 37,
-   "name": "Catch Me If You Can",
-   "description": "Make an unscheduled departure at VCIA.",
-   "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
-  },
-  {
-   "id": 38,
-   "name": "Challenging Tank",
-   "description": "Kinda hot in these Rhinos.",
-   "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
-  },
-  {
-   "id": 39,
-   "name": "Sneakthief",
-   "description": "Rob a jewelry store without being detected.",
-   "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
-  },
-  {
-   "id": 40,
-   "name": "Maximum Withdrawal",
-   "description": "Rob 5 Bank Vaults and escape.",
-   "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
-  },
-  {
-   "id": 41,
-   "name": "A Classic Blitz Play",
-   "description": "Rob an Armored Truck and escape.",
-   "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
-  },
-  {
-   "id": 42,
-   "name": "The Goodtime State",
-   "description": "Explore all of Leonida.",
-   "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
-  },
-  {
-   "id": 43,
-   "name": "Pest Control",
-   "description": "Rob an Illegal Operation belonging to each gang.",
-   "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
-  },
-  {
-   "id": 44,
-   "name": "In The Beginning…",
-   "description": "Enjoy a cocktail with a view on Ocean Beach.",
-   "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
-  },
-  {
-   "id": 45,
-   "name": "Capital Offense",
-   "description": "Smash your way out of a vehicle showroom in classic style.",
-   "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
-  },
-  {
-   "id": 46,
-   "name": "Let’s Go Bowling",
-   "description": "Follow-through at the Kolt & Associates' bowling alley.",
-   "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
-  },
-  {
-   "id": 47,
-   "name": "Personal Best",
-   "description": "A partnership with mass appeal.",
-   "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
-  },
-  {
-   "id": 48,
-   "name": "Actions Speak Louder",
-   "description": "Choices made (for better or worse).",
-   "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
-  },
-  {
-   "id": 49,
-   "name": "Bad Luck, I Guess",
-   "description": "Second time's the charm.",
-   "grade": "bronze",
-   "guide": "Succeed on a second try."
-  },
-  {
-   "id": 50,
-   "name": "The Truth Is Out There",
-   "description": "What the hell just happened?",
-   "grade": "bronze",
-   "guide": "Witness something strange."
-  },
-  {
-   "id": 51,
-   "name": "Ten Pin",
-   "description": "Bowl 'em over with a melee drive-by.",
-   "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
-  },
-  {
-   "id": 52,
-   "name": "Dime on the Dollar",
-   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
-   "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
-  },
-  {
-   "id": 53,
-   "name": "Treat Yo Self",
-   "description": "Spend $100,000 across all shops.",
-   "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
-  },
-  {
-   "id": 54,
-   "name": "Little Boxes",
-   "description": "Purchase all garage properties.",
-   "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
-  },
-  {
-   "id": 55,
-   "name": "On the Spot",
-   "description": "Register 10 vehicles to the Scooter Bros app.",
-   "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
-  }
- ]
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "The official 55 trophies, as published for PlayStation 5 (18 Nov 2026). Names, descriptions and grades are the official ones; guides are our own words, written from the official descriptions.",
+  "sources": "Name, description, grade and PSN count for each trophy: the official PlayStation 5 trophy list as listed by Exophase and PSNProfiles, carried in the kit's official list (18 Nov 2026). Guides: our own advice, built only from those official descriptions; where a description gives no location or step, the guide says so instead of inventing one. Nothing here was copied from another guide.",
+  "hidden_note": "The kit starter carries no hidden flag, so 'hidden' here is our own classification: story and spoiler trophies are marked hidden and the spoiler setting hides them until earned.",
+  "trophies": [
+    {"id": 1, "name": "Vice Got a Price!", "description": "Congratulations! You're a Leonida Legend.", "grade": "platinum", "hidden": false, "kind": "platinum", "missable": false, "stage": 5, "target": "54 trophies", "guide": "This is the last trophy you earn, not a task of its own. Work through the other 54 in roadmap order — story first, then side strands, then exploration and activities — and tick each off here as it pops. The platinum unlocks the moment the 54th lands, so use the roadmap view to see exactly what is left.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 2, "name": "Just Like Paradise", "description": "Complete Gone Fishing.", "grade": "bronze", "hidden": true, "kind": "story", "missable": false, "stage": 1, "target": null, "guide": "Play the opening mission, Gone Fishing, from the start of the story and see it through to its end. It is the first story trophy and cannot be missed — it pops when the mission completes. If you are starting fresh, this is your first tick.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 3, "name": "Paradise Lost", "description": "Complete Chapter 1.", "grade": "bronze", "hidden": true, "kind": "story", "missable": false, "stage": 1, "target": null, "guide": "Finish Chapter 1 by playing the story missions in order until the chapter closes. Nothing special to prepare; keep following the story and the trophy pops at the chapter's end.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 4, "name": "T**s Ass Drug Money", "description": "Complete Chapter 2.", "grade": "bronze", "hidden": true, "kind": "story", "missable": false, "stage": 1, "target": null, "guide": "Finish Chapter 2 the same way — story missions in order until the chapter closes. The chapter trophies come in order, so this one follows Paradise Lost.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 5, "name": "Vice City, Baby!", "description": "Complete Chapter 3.", "grade": "bronze", "hidden": true, "kind": "story", "missable": false, "stage": 1, "target": null, "guide": "Finish Chapter 3 by completing its story missions in order. The name is the only hint the official description gives; there is no side task attached to it.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 6, "name": "Top Of The World, Ma", "description": "Complete Chapter 4.", "grade": "bronze", "hidden": true, "kind": "story", "missable": false, "stage": 1, "target": null, "guide": "Finish Chapter 4 by completing its story missions in order. This is the last chapter trophy before the finale, so it marks the home stretch of the story.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 7, "name": "You Gotta Know When to Get Off", "description": "Complete the final mission.", "grade": "gold", "hidden": true, "kind": "story", "missable": false, "stage": 1, "target": null, "guide": "Complete the final mission of the story. Play through the chapters in order and the final mission unlocks at the end; finish it and this gold trophy pops. Save before the finale if you want a clean rollback point for anything the ending locks in.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 8, "name": "Trust", "description": "Complete Breakfast Run.", "grade": "bronze", "hidden": true, "kind": "mission", "missable": false, "stage": 1, "target": null, "guide": "Complete the story mission Breakfast Run. Follow the story until the mission appears, then play it through. The description names the mission and nothing else — no extra objective is needed.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 9, "name": "Break the Bank", "description": "Complete The Cartel Heist.", "grade": "bronze", "hidden": true, "kind": "mission", "missable": false, "stage": 1, "target": null, "guide": "Complete the story mission The Cartel Heist. Play the story until it unlocks and finish the mission; a heist mission may have setup steps of its own, so take the mission's objectives one at a time.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 10, "name": "Family Matters", "description": "Complete Child's Play.", "grade": "bronze", "hidden": true, "kind": "mission", "missable": false, "stage": 1, "target": null, "guide": "Complete the story mission Child's Play. It unlocks through the story; finish the mission and the trophy pops.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 11, "name": "DWNFALL", "description": "Complete Headliners.", "grade": "bronze", "hidden": true, "kind": "mission", "missable": false, "stage": 1, "target": null, "guide": "Complete the story mission Headliners. It is story-gated: finish the mission when it appears and the trophy pops.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 12, "name": "Hi-Jacked", "description": "Complete VCIA Takedown.", "grade": "bronze", "hidden": true, "kind": "mission", "missable": false, "stage": 1, "target": null, "guide": "Complete the story mission VCIA Takedown. The name points at VCIA, the airport, so expect an airport set piece; follow the mission objectives and finish it.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 13, "name": "Snow Storm", "description": "Complete Operation Savage Glory.", "grade": "bronze", "hidden": true, "kind": "mission", "missable": false, "stage": 1, "target": null, "guide": "Complete the story mission Operation Savage Glory. Finish it when the story offers it; the name suggests a big set piece, but the only requirement the description states is completing the mission.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 14, "name": "A Long Road", "description": "Attain 100% Completion.", "grade": "gold", "hidden": false, "kind": "world", "missable": false, "stage": 5, "target": "100%", "guide": "Attain 100% Completion — the game's own completion counter, which counts story, side strands, collectibles and activities together. Treat it as the final clean-up trophy: finish the story, then work the roadmap stages and watch the in-game completion stat climb. It pops at 100%, and the platinum follows once every other trophy is done.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."}
+,
+    {"id": 15, "name": "Cunning Stunts", "description": "Complete 250 Stunts.", "grade": "silver", "hidden": false, "kind": "activity", "missable": false, "stage": 4, "target": "250", "guide": "Complete 250 stunts. Stunts are the game's driving and flying tricks — jumps, near misses, airtime and the like. Build the count gradually while travelling: take jumps, thread traffic and use ramps whenever you move between objectives instead of grinding all 250 at once. The counter is cumulative across the whole playthrough.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 16, "name": "Master of None", "description": "Try each type of activity once.", "grade": "bronze", "hidden": false, "kind": "activity", "missable": false, "stage": 4, "target": "9 types", "guide": "Try each type of activity once. The official list counts 9 activity types. Sample everything the game offers — races, the shooting range, fishing, arcade games, bowling, meditation, drone races and the rest — one go at each is enough. Use the checklist to note which types you have already tried.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 17, "name": "The Shootist", "description": "Earn a gold medal in all Shooting Range challenges.", "grade": "silver", "hidden": false, "kind": "activity", "missable": false, "stage": 4, "target": "42 challenges", "guide": "Earn a gold medal in all Shooting Range challenges — 42 of them, per the PSN count. Visit the shooting range and work through the challenges one by one, repeating any you miss until gold. Go for accuracy over speed first: gold medals reward clean runs, so learn each challenge's layout before chasing the time.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 18, "name": "Top Fun", "description": "Win a Top Fun Drone Race at every location.", "grade": "bronze", "hidden": false, "kind": "activity", "missable": false, "stage": 4, "target": "14 locations", "guide": "Win a Top Fun Drone Race at every location — 14 locations, per the PSN count. Find the drone-race spots around Leonida and win at each one. Learn each course's turns on a practice run, then race to win; a win at every location is required, not just one.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 19, "name": "Earn Cash, Not Kudos", "description": "Win 20 different races.", "grade": "bronze", "hidden": false, "kind": "activity", "missable": false, "stage": 4, "target": "20 races", "guide": "Win 20 different races. Enter races across Leonida and win 20 distinct ones — repeats of the same race do not add to the count. Vary the race types and locations so each win is a new one.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 20, "name": "Baited My Tackle", "description": "Beat Cal in a fishing challenge.", "grade": "bronze", "hidden": false, "kind": "activity", "missable": false, "stage": 4, "target": null, "guide": "Beat Cal in a fishing challenge. Take up a fishing challenge against Cal and out-fish him. Fishing challenges reward patience and timing, so watch the bite and reel steadily rather than rushing.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 21, "name": "Stick Fiddler", "description": "Complete an arcade game.", "grade": "bronze", "hidden": false, "kind": "activity", "missable": false, "stage": 4, "target": null, "guide": "Complete an arcade game. Find an arcade machine and play a game through to its end. Any arcade game counts, so pick the one you find first and finish it.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 22, "name": "Road to Rehabilitation", "description": "Complete the final mission for Andy.", "grade": "bronze", "hidden": true, "kind": "side", "missable": false, "stage": 2, "target": null, "guide": "Complete the final mission for Andy. Follow Andy's mission strand through to its last mission and finish it. Side strands unlock as the story progresses, so keep checking back with Andy between story chapters.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 23, "name": "This Was No Boat Accident", "description": "Complete the final mission for Kenton.", "grade": "bronze", "hidden": true, "kind": "side", "missable": false, "stage": 2, "target": null, "guide": "Complete the final mission for Kenton. Same pattern as the other contact strands: follow Kenton's missions to the last one and finish it.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 24, "name": "The Lone Rider", "description": "Complete the final mission for Billy.", "grade": "bronze", "hidden": true, "kind": "side", "missable": false, "stage": 2, "target": null, "guide": "Complete the final mission for Billy. Follow Billy's strand to its final mission and finish it.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 25, "name": "Strangers & Freaks", "description": "Complete 8 mission strands for strangers across the state of Leonida.", "grade": "silver", "hidden": false, "kind": "side", "missable": false, "stage": 2, "target": "8 strands", "guide": "Complete 8 mission strands for strangers across the state of Leonida. Seek out stranger encounters marked around the map and finish 8 full strands. This is a slow-burn trophy: start strands early and return to them between story missions so you are not hunting all 8 at the end.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 26, "name": "Supply & Demand", "description": "Complete the final mission for Randy.", "grade": "bronze", "hidden": true, "kind": "side", "missable": false, "stage": 2, "target": null, "guide": "Complete the final mission for Randy. Follow Randy's strand to its final mission and finish it.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 27, "name": "Spin On This!", "description": "Complete the final mission for Tyrone.", "grade": "bronze", "hidden": true, "kind": "side", "missable": false, "stage": 2, "target": null, "guide": "Complete the final mission for Tyrone. Follow Tyrone's strand to its final mission and finish it.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 28, "name": "Positive Mental Attitude", "description": "Meditate at every spot across Leonida.", "grade": "bronze", "hidden": false, "kind": "activity", "missable": false, "stage": 3, "target": "18 spots", "guide": "Meditate at every spot across Leonida — 18 spots, per the PSN count. Find each meditation spot and meditate there. Treat it as an exploration trophy: sweep the map region by region and tick spots off as you find them.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."}
+,
+    {"id": 29, "name": "Fair Game", "description": "Hunt a unique animal for Bret.", "grade": "bronze", "hidden": false, "kind": "side", "missable": false, "stage": 2, "target": null, "guide": "Hunt a unique animal for Bret. Take on Bret's hunt and track down the unique animal he wants. Follow the hunt's own clues and take the shot when you have a clean one — a unique animal is a one-off, so make the attempt count.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 30, "name": "Don't Touch My Deck", "description": "Complete 3 Collectible Card sets.", "grade": "silver", "hidden": false, "kind": "collectible", "missable": false, "stage": 3, "target": "3 sets", "guide": "Complete 3 Collectible Card sets. Collect cards around Leonida and finish 3 full sets. Cards are a long collectible hunt: pick up every card you pass and check your set progress often so you know which sets are close.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 31, "name": "You WAiNKer!", "description": "WAiNK It at 100 locations.", "grade": "silver", "hidden": false, "kind": "collectible", "missable": false, "stage": 3, "target": "100 locations", "guide": "WAiNK It at 100 locations. Use the WAiNK It interaction at 100 different spots. The count is cumulative, so make a habit of using it wherever you see the prompt while travelling, rather than saving all 100 for the end.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 32, "name": "One Last Thing", "description": "Complete 50 Challenges.", "grade": "bronze", "hidden": false, "kind": "activity", "missable": false, "stage": 4, "target": "50", "guide": "Complete 50 Challenges. Challenges are the game's side objectives; finish 50 of them across any categories. Check the challenge list regularly and pick off the easy ones first, then work toward the harder ones.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 33, "name": "Hot Together", "description": "Lose a 4 star Wanted Level with your partner and escape the heat.", "grade": "bronze", "hidden": false, "kind": "combat", "missable": true, "stage": 5, "target": "4 stars", "guide": "Lose a 4-star Wanted Level with your partner and escape the heat. Build a 4-star wanted level while your partner is with you, then break line of sight and escape until the stars clear. Plan the escape route first — open roads out of the search area beat hiding in an alley — and only start the wanted level when your partner is beside you.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 34, "name": "Retail Therapy", "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.", "grade": "bronze", "hidden": false, "kind": "combat", "missable": true, "stage": 5, "target": "3 shops", "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. Rob one shop, move straight to the next with your partner, and keep the wanted level alive through all three — losing it resets the run. Pick three shops close together and plan the route before the first robbery.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 35, "name": "Whip It Good", "description": "Discover 100 vehicles.", "grade": "bronze", "hidden": false, "kind": "collectible", "missable": false, "stage": 3, "target": "100 vehicles", "guide": "Discover 100 vehicles. Find and get into 100 different vehicles across Leonida. Variety counts: try cars, bikes, boats and anything else you come across, and check the discovery count as you go.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 36, "name": "Gunslinger", "description": "Take down 5 enemies in a single use of Combat Focus.", "grade": "bronze", "hidden": false, "kind": "combat", "missable": true, "stage": 4, "target": "5 in one use", "guide": "Take down 5 enemies in a single use of Combat Focus. Wait for a tight group of 5 enemies, trigger Combat Focus, and drop all 5 before it ends. Pick a spot where enemies cluster and line up the shots before you activate it — one use, five takedowns.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 37, "name": "Catch Me If You Can", "description": "Make an unscheduled departure at VCIA.", "grade": "bronze", "hidden": false, "kind": "combat", "missable": true, "stage": 4, "target": null, "guide": "Make an unscheduled departure at VCIA. At the airport (VCIA), leave in a way the schedule did not plan — take an aircraft and get airborne without going through departures. The description is deliberately vague; treat it as a stunt at the airport and try an aircraft on the runway.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 38, "name": "Challenging Tank", "description": "Kinda hot in these Rhinos.", "grade": "bronze", "hidden": false, "kind": "combat", "missable": false, "stage": 4, "target": null, "guide": "Kinda hot in these Rhinos. The description gives no trigger beyond Rhino tanks, so expect a combat moment involving Rhino tanks. When Rhinos show up, engage them rather than avoiding them — the trophy is tied to that encounter, so face the tanks when they appear. The guide here is honest about what the description does not say.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 39, "name": "Sneakthief", "description": "Rob a jewelry store without being detected.", "grade": "bronze", "hidden": false, "kind": "combat", "missable": true, "stage": 4, "target": null, "guide": "Rob a jewelry store without being detected. Plan a quiet robbery: go in unseen, take the goods and leave before anyone raises the alarm. If you are spotted, the attempt fails, so scout the store first and move slowly.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 40, "name": "Maximum Withdrawal", "description": "Rob 5 Bank Vaults and escape.", "grade": "silver", "hidden": false, "kind": "combat", "missable": false, "stage": 4, "target": "5 vaults", "guide": "Rob 5 Bank Vaults and escape. Rob five bank vaults and get away clean each time. Plan each escape route before you go in — five successful vault robberies with clean getaways, counted cumulatively.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 41, "name": "A Classic Blitz Play", "description": "Rob an Armored Truck and escape.", "grade": "bronze", "hidden": false, "kind": "combat", "missable": true, "stage": 4, "target": null, "guide": "Rob an Armored Truck and escape. Find an armored truck, rob it and escape. Watch for trucks on the road, hit one when you have a clear escape route, and get away before the response closes in.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 42, "name": "The Goodtime State", "description": "Explore all of Leonida.", "grade": "bronze", "hidden": false, "kind": "world", "missable": false, "stage": 3, "target": "52 areas", "guide": "Explore all of Leonida — 52 areas, per the PSN count. Visit every area of the map. Drive, fly and sail through each region until the area counter fills; use the map to spot regions you have never entered.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."}
+,
+    {"id": 43, "name": "Pest Control", "description": "Rob an Illegal Operation belonging to each gang.", "grade": "bronze", "hidden": false, "kind": "combat", "missable": false, "stage": 4, "target": "9 gangs", "guide": "Rob an Illegal Operation belonging to each gang — 9 gangs, per the PSN count. Hit one illegal operation for every gang in the game. Keep a list of which gangs you have hit so you know who is left.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 44, "name": "In The Beginning…", "description": "Enjoy a cocktail with a view on Ocean Beach.", "grade": "bronze", "hidden": false, "kind": "world", "missable": false, "stage": 3, "target": null, "guide": "Enjoy a cocktail with a view on Ocean Beach. Go to Ocean Beach, find a spot with a view and have a cocktail there. This is a quiet moment trophy — no combat, just be at the right beach and take the drink.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 45, "name": "Capital Offense", "description": "Smash your way out of a vehicle showroom in classic style.", "grade": "bronze", "hidden": false, "kind": "combat", "missable": false, "stage": 4, "target": null, "guide": "Smash your way out of a vehicle showroom in classic style. Get into a vehicle showroom and drive out through it — the classic style hints at smashing through the glass front. Pick a showroom, get in a car and drive straight out.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 46, "name": "Let’s Go Bowling", "description": "Follow-through at the Kolt & Associates' bowling alley.", "grade": "bronze", "hidden": false, "kind": "activity", "missable": false, "stage": 3, "target": null, "guide": "Follow-through at the Kolt & Associates' bowling alley. Go bowling at the Kolt & Associates alley and follow through on the game. The description names the alley, so head there and play a full game.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 47, "name": "Personal Best", "description": "A partnership with mass appeal.", "grade": "bronze", "hidden": true, "kind": "story", "missable": false, "stage": 5, "target": null, "guide": "A partnership with mass appeal. The description gives no concrete step — it reads as a story or relationship moment. Play through the story and the partnership scenes; the trophy pops when that moment lands, so do not chase it as a side task.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 48, "name": "Actions Speak Louder", "description": "Choices made (for better or worse).", "grade": "bronze", "hidden": true, "kind": "story", "missable": true, "stage": 5, "target": "500 choices", "guide": "Choices made (for better or worse). The description points at choices, and the PSN count runs to 500 — so keep making choices as the game offers them and the count climbs. Some choices may close off others, so this is the one trophy to think about before big decisions; the roadmap flags it as a choice trophy.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 49, "name": "Bad Luck, I Guess", "description": "Second time's the charm.", "grade": "bronze", "hidden": true, "kind": "story", "missable": true, "stage": 5, "target": null, "guide": "Second time's the charm. The description suggests a second attempt succeeding where the first did not. When something fails the first time, try it again — this trophy is tied to succeeding on a retry, so do not assume a failed attempt is wasted.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 50, "name": "The Truth Is Out There", "description": "What the hell just happened?", "grade": "bronze", "hidden": true, "kind": "story", "missable": false, "stage": 5, "target": null, "guide": "What the hell just happened? The description is a reaction, not an instruction — something strange happens in the world. Keep playing and stay curious: explore odd places and follow strange events when they appear, and the moment will find you.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 51, "name": "Ten Pin", "description": "Bowl 'em over with a melee drive-by.", "grade": "bronze", "hidden": false, "kind": "combat", "missable": true, "stage": 4, "target": null, "guide": "Bowl 'em over with a melee drive-by. While driving by, use a melee attack to knock someone down. Line up a slow pass beside a pedestrian and swing as you go by — it is a stunt, so expect a few tries.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 52, "name": "Dime on the Dollar", "description": "Earn $250,000 laundering Marked Bills through your contacts.", "grade": "bronze", "hidden": false, "kind": "money", "missable": false, "stage": 5, "target": "$250,000", "guide": "Earn $250,000 laundering Marked Bills through your contacts. Launder marked bills via your contacts until you have earned $250,000 from it. Launder steadily as you earn marked bills rather than stockpiling them; the total is cumulative.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 53, "name": "Treat Yo Self", "description": "Spend $100,000 across all shops.", "grade": "bronze", "hidden": false, "kind": "money", "missable": false, "stage": 5, "target": "$100,000", "guide": "Spend $100,000 across all shops. Spend $100,000 in shops — any shops, cumulative. Buy gear, clothes and supplies as you play and the total climbs; check your spending total if you are close.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description and grade. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 54, "name": "Little Boxes", "description": "Purchase all garage properties.", "grade": "bronze", "hidden": false, "kind": "money", "missable": false, "stage": 3, "target": "8 garages", "guide": "Purchase all garage properties — 8 of them, per the PSN count. Buy every garage property in the game. Save up and buy them as they become available; the last one pops the trophy.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."},
+    {"id": 55, "name": "On the Spot", "description": "Register 10 vehicles to the Scooter Bros app.", "grade": "bronze", "hidden": false, "kind": "money", "missable": false, "stage": 3, "target": "10 vehicles", "guide": "Register 10 vehicles to the Scooter Bros app. Open the Scooter Bros app and register 10 vehicles through it. Register cars as you find them — any 10 vehicles count.", "source": "Official PS5 trophy list (Exophase / PSNProfiles via the kit list, 18 Nov 2026) for name, description, grade and PSN count. Guide: our own words from that description; not yet verified in-game."}
+  ]
 }
